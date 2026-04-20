@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+*.log
+workspace/outputs/*.png
+workspace/outputs/*.jpg
+workspace/outputs/*.jpeg
+workspace/outputs/*.vtk
+workspace/outputs/*.vtu
+workspace/outputs/*.pvtu
+workspace/outputs/*.pvd
+.vscode/

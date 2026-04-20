@@ -1,0 +1,13 @@
+services:
+  fenics:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fenics_dev
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./workspace:/workspace
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
