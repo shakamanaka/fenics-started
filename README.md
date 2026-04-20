@@ -1,10 +1,10 @@
-# 🧪 FEniCS Docker Starter
+# FEniCS Docker Starter
 
 Pequeña abstracción para ejecutar FEniCS (FEniCSx / DOLFINx) dentro de Docker y visualizar resultados desde tu máquina local.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este proyecto simplifica:
 
